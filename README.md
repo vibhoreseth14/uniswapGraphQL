@@ -10,6 +10,7 @@ you can also make same using pyhton 3.9 versiona nd requirements.txt file for es
 Then notebook is easily viewed in ide like Pycharm or Google Collab notebooks.
 
 Please take time to paly around with GraphQL Query API on their site before project.
+https://thegraph.com/explorer/subgraph/uniswap/uniswap-v2?selected=playground
 
 Thanks a lot!
 
